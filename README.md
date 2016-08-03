@@ -6,20 +6,20 @@ Example Output
 
     Node      ✔ 
     Mongodb   ✔ 
-    Redis    	✔ 
+    Redis     ✔ 
     Ruby      ✔ 
     Rails     ✔ 
-    Bundler   ✔ 
+    Bundler   ✘ 
     G++       ✔ 
     Openssl   ✔ 
     Sqlite    ✔ 
     autoconf  ✔ 
-    ncurses	✔ 
-    automake	✔ 
-    Libtool	✔ 
-    Bison	✔ 
-    TCL	✔ 
-    GIT	✔ 
-    GEM	✔ 
+    ncurses	  ✔ 
+    automake  ✔ 
+    Libtool	  ✔ 
+    Bison	  ✔ 
+    TCL	      ✔ 
+    GIT	      ✘ 
+    GEM	      ✔ 
 
 
