@@ -1,16 +1,25 @@
-Usage
+## Usage
 
-$ sh is_installed.sh
+    $ sh is_installed.sh
 
-node ✔
-grunt ✔
-testacular ✔
-uglifyjs ✔
-requirejs ✘
-lodash ✘
-gem ✔
-grunt-shell ✔
-grunt-hashres ✘
-gruntacular ✔
+Example Output
+
+    Node      ✔ 
+    Mongodb   ✔ 
+    Redis    	✔ 
+    Ruby      ✔ 
+    Rails     ✔ 
+    Bundler   ✔ 
+    G++       ✔ 
+    Openssl   ✔ 
+    Sqlite    ✔ 
+    autoconf  ✔ 
+    ncurses	✔ 
+    automake	✔ 
+    Libtool	✔ 
+    Bison	✔ 
+    TCL	✔ 
+    GIT	✔ 
+    GEM	✔ 
 
 
