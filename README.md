@@ -1,6 +1,6 @@
 ## Usage
 
-    $ sh is_installed.sh
+    $ sh dependency_checklist.sh or ./dependency_checklist.sh
 
 Example Output
 
